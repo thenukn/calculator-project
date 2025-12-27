@@ -1,2 +1,2 @@
 # calculator-project
-a GUI working calculator.
+A GUI working calculator using python.
